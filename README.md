@@ -46,4 +46,4 @@ All of the tools that we use today are free and you can install them and play ar
 
 ### Extra Work
 
-- See if you can update the text, change the speed of the animation, an change the background color.
+- See if you can update the text, change the speed of the animation, and change the background color.
